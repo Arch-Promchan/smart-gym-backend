@@ -20,6 +20,7 @@
   "scripts": {
     "dev": "nodemon server.js",
     "start": "node server.js",
+    "build": "echo 'No build step needed'",
     "test": "echo \"No tests available.\""
   },
   "dependencies": {
